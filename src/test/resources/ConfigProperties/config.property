@@ -1,0 +1,3 @@
+browser=chrome
+url = https://c2ta.co.in/
+isHeadless = false

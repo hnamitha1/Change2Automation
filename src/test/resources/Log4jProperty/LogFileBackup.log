@@ -1,0 +1,565 @@
+2020-10-17 20:09:33,748 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 20:10:04,431 [main] INFO C2TA - Launched the Orange Application
+2020-10-17 20:10:32,478 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 20:10:45,997 [main] INFO C2TA - Launched the Orange Application
+2020-10-17 20:12:52,386 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 20:13:17,717 [main] INFO C2TA - Launched the Orange Application
+2020-10-17 20:18:47,734 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 20:18:56,219 [main] INFO C2TA - Launched the Orange Application
+2020-10-17 20:22:38,611 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 20:22:44,840 [main] INFO C2TA - Launched the Orange Application
+2020-10-17 20:26:29,983 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 20:26:35,254 [main] INFO C2TA - Launched the Orange Application
+2020-10-17 20:30:51,081 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 20:30:55,844 [main] INFO C2TA - Launched the Orange Application
+2020-10-17 20:32:46,159 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 20:32:59,527 [main] INFO C2TA - Launched the Orange Application
+2020-10-17 20:33:30,890 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 20:33:45,323 [main] INFO C2TA - Launched the Orange Application
+2020-10-17 20:35:00,727 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 20:35:15,670 [main] INFO C2TA - Launched the C2TA Application
+2020-10-17 22:29:17,258 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 22:29:36,855 [main] INFO C2TA - Launched the C2TA Application
+2020-10-17 22:38:35,836 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 22:38:42,129 [main] INFO C2TA - Launched the C2TA Application
+2020-10-17 22:39:24,120 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 22:39:33,693 [main] INFO C2TA - Launched the C2TA Application
+2020-10-17 22:41:42,327 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 22:41:57,546 [main] INFO C2TA - Launched the C2TA Application
+2020-10-17 22:43:22,655 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 22:43:28,200 [main] INFO C2TA - Launched the C2TA Application
+2020-10-17 22:45:06,915 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 22:45:22,604 [main] INFO C2TA - Launched the C2TA Application
+2020-10-17 22:45:38,526 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 22:45:49,050 [main] INFO C2TA - Launched the C2TA Application
+2020-10-17 22:46:54,714 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 22:47:03,954 [main] INFO C2TA - Launched the C2TA Application
+2020-10-17 22:59:43,450 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 22:59:52,358 [main] INFO C2TA - Launched the C2TA Application
+2020-10-17 23:09:58,449 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 23:10:01,699 [main] INFO C2TA - Launched the C2TA Application
+2020-10-17 23:19:29,891 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 23:19:33,587 [main] INFO C2TA - Launched the C2TA Application
+2020-10-17 23:20:19,523 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 23:20:23,593 [main] INFO C2TA - Launched the C2TA Application
+2020-10-17 23:21:31,929 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 23:21:41,140 [main] INFO C2TA - Launched the C2TA Application
+2020-10-17 23:23:54,974 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 23:23:59,169 [main] INFO C2TA - Launched the C2TA Application
+2020-10-17 23:26:25,073 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 23:26:29,530 [main] INFO C2TA - Launched the C2TA Application
+2020-10-17 23:27:52,135 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 23:27:55,818 [main] INFO C2TA - Launched the C2TA Application
+2020-10-17 23:29:54,596 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 23:29:58,394 [main] INFO C2TA - Launched the C2TA Application
+2020-10-17 23:33:32,570 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-17 23:33:37,844 [main] INFO C2TA - Launched the C2TA Application
+2020-10-18 00:08:04,595 [main] INFO C2TA - launching Browser
+2020-10-18 00:08:04,600 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-18 00:08:16,690 [main] INFO C2TA - Launched the C2TA Application
+2020-10-18 00:08:16,735 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-18 00:08:20,463 [main] INFO C2TA - Enter Username
+2020-10-18 00:08:20,539 [main] INFO C2TA - Enter Password
+2020-10-18 00:08:20,618 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-18 00:08:20,639 [main] INFO C2TA - Click on Login Button
+2020-10-18 00:08:23,726 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-18 00:08:23,846 [main] INFO C2TA - Close Browser
+2020-10-18 23:11:09,796 [main] INFO C2TA - launching Browser
+2020-10-18 23:11:09,807 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-18 23:11:30,268 [main] INFO C2TA - Launched the C2TA Application
+2020-10-18 23:11:30,391 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-18 23:11:33,761 [main] INFO C2TA - Enter Username
+2020-10-18 23:11:33,930 [main] INFO C2TA - Enter Password
+2020-10-18 23:11:34,097 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-18 23:11:34,143 [main] INFO C2TA - Click on Login Button
+2020-10-18 23:11:37,404 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-18 23:11:37,920 [main] INFO C2TA - Close Browser
+2020-10-21 21:12:38,017 [main] INFO C2TA - launching Browser
+2020-10-21 21:12:38,030 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-21 21:12:59,665 [main] INFO C2TA - Launched the C2TA Application
+2020-10-21 21:12:59,783 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-21 21:13:03,433 [main] INFO C2TA - Enter Username
+2020-10-21 21:13:03,595 [main] INFO C2TA - Enter Password
+2020-10-21 21:13:03,765 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-21 21:13:03,812 [main] INFO C2TA - Click on Login Button
+2020-10-21 21:13:07,544 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-21 21:13:08,078 [main] INFO C2TA - Close Browser
+2020-10-21 21:24:05,629 [main] INFO C2TA - launching Browser
+2020-10-21 21:24:05,641 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-21 21:24:16,923 [main] INFO C2TA - Launched the C2TA Application
+2020-10-21 21:24:17,044 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-21 21:24:18,715 [main] INFO C2TA - Enter Username
+2020-10-21 21:24:18,874 [main] INFO C2TA - Enter Password
+2020-10-21 21:24:19,033 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-21 21:24:19,082 [main] INFO C2TA - Click on Login Button
+2020-10-21 21:24:24,142 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-21 21:24:24,660 [main] INFO C2TA - Close Browser
+2020-10-21 21:28:24,563 [main] INFO C2TA - launching Browser
+2020-10-21 21:28:24,574 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-21 21:32:18,813 [main] INFO C2TA - launching Browser
+2020-10-21 21:32:18,826 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-21 21:32:31,064 [main] INFO C2TA - Launched the C2TA Application
+2020-10-21 21:32:31,195 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-21 21:32:31,786 [main] INFO C2TA - Enter Username
+2020-10-21 21:33:02,391 [main] INFO C2TA - launching Browser
+2020-10-21 21:33:02,402 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-21 21:33:13,332 [main] INFO C2TA - Launched the C2TA Application
+2020-10-21 21:33:13,469 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-21 21:33:14,490 [main] INFO C2TA - Enter Username
+2020-10-21 21:33:59,761 [main] INFO C2TA - launching Browser
+2020-10-21 21:33:59,773 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-21 21:34:10,970 [main] INFO C2TA - Launched the C2TA Application
+2020-10-21 21:34:11,080 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-21 21:34:12,930 [main] INFO C2TA - Enter Username
+2020-10-21 21:34:13,092 [main] INFO C2TA - Enter Password
+2020-10-21 21:34:13,238 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-21 21:34:13,280 [main] INFO C2TA - Click on Login Button
+2020-10-21 21:34:16,950 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-21 21:34:17,456 [main] INFO C2TA - Close Browser
+2020-10-21 21:34:53,168 [main] INFO C2TA - launching Browser
+2020-10-21 21:34:53,180 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-21 21:35:04,205 [main] INFO C2TA - Launched the C2TA Application
+2020-10-21 21:35:04,350 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-21 21:35:05,354 [main] INFO C2TA - Enter Username
+2020-10-21 21:37:05,528 [main] INFO C2TA - launching Browser
+2020-10-21 21:37:05,540 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-21 21:37:16,498 [main] INFO C2TA - Launched the C2TA Application
+2020-10-21 21:37:16,602 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-21 21:37:20,278 [main] INFO C2TA - Enter Username
+2020-10-21 21:37:20,429 [main] INFO C2TA - Enter Password
+2020-10-21 21:37:20,597 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-21 21:37:20,646 [main] INFO C2TA - Click on Login Button
+2020-10-21 21:37:24,019 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-21 21:37:24,503 [main] INFO C2TA - Close Browser
+2020-10-21 21:38:31,290 [main] INFO C2TA - launching Browser
+2020-10-21 21:38:31,302 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-21 21:38:42,161 [main] INFO C2TA - Launched the C2TA Application
+2020-10-21 21:38:42,257 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-21 21:38:45,760 [main] INFO C2TA - Enter Username
+2020-10-21 21:38:45,907 [main] INFO C2TA - Enter Password
+2020-10-21 21:38:46,056 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-21 21:38:46,105 [main] INFO C2TA - Click on Login Button
+2020-10-21 21:38:50,561 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-21 21:38:51,058 [main] INFO C2TA - Close Browser
+2020-10-21 21:49:27,299 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-21 21:49:38,693 [main] INFO C2TA - Launched the C2TA Application
+2020-10-21 21:49:39,012 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-21 21:49:47,362 [main] INFO C2TA - Launched the C2TA Application
+2020-10-21 21:59:05,730 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-21 21:59:17,217 [main] INFO C2TA - Launched the C2TA Application
+2020-10-21 21:59:17,675 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-21 21:59:26,383 [main] INFO C2TA - Launched the C2TA Application
+2020-10-21 22:01:13,296 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-21 22:01:24,459 [main] INFO C2TA - Launched the C2TA Application
+2020-10-21 22:01:24,898 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-21 22:01:33,239 [main] INFO C2TA - Launched the C2TA Application
+2020-10-21 22:02:54,347 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-21 22:03:07,455 [main] INFO C2TA - Launched the C2TA Application
+2020-10-21 22:03:08,298 [main] INFO C2TA - Enter Username
+2020-10-21 22:03:08,481 [main] INFO C2TA - Enter Password
+2020-10-21 22:03:12,440 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-21 22:03:23,140 [main] INFO C2TA - Launched the C2TA Application
+2020-10-21 22:03:23,910 [main] INFO C2TA - Enter Username
+2020-10-21 22:03:24,145 [main] INFO C2TA - Enter Password
+2020-10-21 22:05:06,658 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-21 22:05:18,533 [main] INFO C2TA - Launched the C2TA Application
+2020-10-21 22:05:19,435 [main] INFO C2TA - Enter Username
+2020-10-21 22:05:19,620 [main] INFO C2TA - Enter Password
+2020-10-21 22:05:27,092 [main] INFO C2TA - To validate the login functionality of Change2TestAutomation application is pass
+2020-10-21 22:05:28,337 [main] INFO C2TA - Exiting the application and closing the browser
+2020-10-21 22:05:28,580 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-21 22:05:39,135 [main] INFO C2TA - Launched the C2TA Application
+2020-10-21 22:05:39,861 [main] INFO C2TA - Enter Username
+2020-10-21 22:05:40,056 [main] INFO C2TA - Enter Password
+2020-10-21 22:05:43,090 [main] INFO C2TA - To validate the login functionality of Change2TestAutomation application is pass
+2020-10-21 22:05:44,344 [main] INFO C2TA - Exiting the application and closing the browser
+2020-10-22 03:02:41,444 [main] INFO C2TA - launching Browser
+2020-10-22 03:02:41,450 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:02:54,404 [main] INFO C2TA - Launched the C2TA Application
+2020-10-22 03:04:31,389 [main] INFO C2TA - launching Browser
+2020-10-22 03:04:31,395 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:04:42,475 [main] INFO C2TA - Launched the C2TA Application
+2020-10-22 03:04:42,523 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:04:43,213 [main] INFO C2TA - Enter Username
+2020-10-22 03:04:43,332 [main] INFO C2TA - Enter Password
+2020-10-22 03:04:43,434 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:04:43,462 [main] INFO C2TA - Click on Login Button
+2020-10-22 03:04:49,316 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:04:49,714 [main] INFO C2TA - Close Browser
+2020-10-22 03:06:30,533 [main] INFO C2TA - launching Browser
+2020-10-22 03:06:30,541 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:06:40,769 [main] INFO C2TA - Launched the C2TA Application
+2020-10-22 03:06:40,809 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:06:41,433 [main] INFO C2TA - Enter Username
+2020-10-22 03:06:41,527 [main] INFO C2TA - Enter Password
+2020-10-22 03:06:41,622 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:06:41,653 [main] INFO C2TA - Click on Login Button
+2020-10-22 03:06:45,255 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:06:45,646 [main] INFO C2TA - Close Browser
+2020-10-22 03:09:15,639 [main] INFO C2TA - launching Browser
+2020-10-22 03:09:15,649 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:09:19,669 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:09:26,566 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:09:26,603 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:09:27,247 [main] INFO C2TA - Enter Username
+2020-10-22 03:09:27,351 [main] INFO C2TA - Enter Password
+2020-10-22 03:09:27,457 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:09:27,490 [main] INFO C2TA - Click on Login Button
+2020-10-22 03:09:31,696 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:09:32,079 [main] INFO C2TA - Close Browser
+2020-10-22 03:10:07,700 [main] INFO C2TA - launching Browser
+2020-10-22 03:10:07,706 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:10:11,664 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:10:28,743 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:10:28,784 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:10:30,760 [main] INFO C2TA - Enter Username
+2020-10-22 03:10:30,847 [main] INFO C2TA - Enter Password
+2020-10-22 03:10:30,939 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:10:30,967 [main] INFO C2TA - Click on Login Button
+2020-10-22 03:10:34,349 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:10:34,739 [main] INFO C2TA - Close Browser
+2020-10-22 03:10:58,066 [main] INFO C2TA - launching Browser
+2020-10-22 03:10:58,072 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:11:02,479 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:11:09,820 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:11:09,858 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:11:10,488 [main] INFO C2TA - Enter Username
+2020-10-22 03:11:10,597 [main] INFO C2TA - Enter Password
+2020-10-22 03:11:10,698 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:11:10,742 [main] INFO C2TA - Click on Login Button
+2020-10-22 03:11:13,910 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:11:14,317 [main] INFO C2TA - Close Browser
+2020-10-22 03:17:39,699 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:17:43,715 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:17:50,069 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:17:50,147 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 03:17:51,260 [main] INFO C2TA - Exiting the application and closing the browser
+2020-10-22 03:17:51,272 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:17:56,190 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:18:28,862 [main] INFO C2TA - Exiting the application and closing the browser
+2020-10-22 03:18:39,068 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:18:43,040 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:18:49,865 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:18:49,950 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 03:18:50,649 [main] INFO C2TA - Exiting the application and closing the browser
+2020-10-22 03:18:50,666 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:18:53,852 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:19:26,495 [main] INFO C2TA - Exiting the application and closing the browser
+2020-10-22 03:20:38,585 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:20:42,554 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:20:48,112 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:20:48,113 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 03:20:48,140 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:20:51,344 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:20:57,418 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:20:57,418 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 03:20:57,430 [main] INFO C2TA - click on the login
+2020-10-22 03:20:58,528 [main] INFO C2TA - Enter Username
+2020-10-22 03:20:58,589 [main] INFO C2TA - Enter Password
+2020-10-22 03:25:48,829 [main] INFO C2TA - launching Browser
+2020-10-22 03:25:48,837 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:25:52,821 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:25:59,698 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:25:59,734 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:26:00,349 [main] INFO C2TA - Enter Username
+2020-10-22 03:26:00,442 [main] INFO C2TA - Enter Password
+2020-10-22 03:26:00,543 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:26:00,573 [main] INFO C2TA - Click on Login Button
+2020-10-22 03:26:07,989 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:26:08,386 [main] INFO C2TA - Close Browser
+2020-10-22 03:27:34,271 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:27:38,204 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:27:45,187 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:27:45,291 [main] INFO C2TA - launching Browser
+2020-10-22 03:27:45,294 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:27:46,006 [main] INFO C2TA - Exiting the application and closing the browser
+2020-10-22 03:28:16,383 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:28:20,292 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:28:26,820 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:28:26,905 [main] INFO C2TA - launching Browser
+2020-10-22 03:28:26,907 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:28:27,624 [main] INFO C2TA - Exiting the application and closing the browser
+2020-10-22 03:29:03,806 [main] INFO C2TA - launching Browser
+2020-10-22 03:29:03,811 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:29:07,776 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:29:16,224 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:29:16,231 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:30:48,375 [main] INFO C2TA - launching Browser
+2020-10-22 03:30:48,381 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:30:52,377 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:30:58,494 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:30:58,532 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:30:59,148 [main] INFO C2TA - Enter Username
+2020-10-22 03:30:59,249 [main] INFO C2TA - Enter Password
+2020-10-22 03:30:59,352 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:30:59,381 [main] INFO C2TA - Click on Login Button
+2020-10-22 03:31:04,450 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:31:04,880 [main] INFO C2TA - Close Browser
+2020-10-22 03:33:53,874 [main] INFO C2TA - launching Browser
+2020-10-22 03:33:53,879 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:33:57,827 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:34:05,507 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:34:05,545 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:34:06,176 [main] INFO C2TA - Enter Username
+2020-10-22 03:34:06,323 [main] INFO C2TA - Enter Password
+2020-10-22 03:34:06,432 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:34:06,463 [main] INFO C2TA - Click on Login Button
+2020-10-22 03:34:11,059 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:34:11,455 [main] INFO C2TA - Close Browser
+2020-10-22 03:34:12,169 [main] INFO C2TA - launching Browser
+2020-10-22 03:34:12,170 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:34:15,362 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:34:21,505 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:34:21,507 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:34:22,121 [main] INFO C2TA - Enter Username
+2020-10-22 03:34:22,245 [main] INFO C2TA - Enter Password
+2020-10-22 03:34:22,353 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:34:22,383 [main] INFO C2TA - Click on Login Button
+2020-10-22 03:34:25,270 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:34:25,632 [main] INFO C2TA - Close Browser
+2020-10-22 03:36:26,103 [main] INFO C2TA - launching Browser
+2020-10-22 03:36:26,110 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:36:30,173 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:36:36,449 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:36:36,455 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 03:36:36,475 [main] INFO C2TA - launching Browser
+2020-10-22 03:36:36,476 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:36:39,737 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:36:46,445 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:36:46,446 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 03:37:51,241 [main] INFO C2TA - launching Browser
+2020-10-22 03:37:51,246 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:37:55,185 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:38:01,430 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:38:01,440 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 03:38:01,480 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:38:02,096 [main] INFO C2TA - Enter Username
+2020-10-22 03:38:02,224 [main] INFO C2TA - Enter Password
+2020-10-22 03:38:02,325 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:38:02,353 [main] INFO C2TA - Click on Login Button
+2020-10-22 03:38:08,639 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:38:09,029 [main] INFO C2TA - Close Browser
+2020-10-22 03:38:09,727 [main] INFO C2TA - launching Browser
+2020-10-22 03:38:09,728 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:38:12,908 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:38:18,713 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:38:18,720 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 03:38:18,734 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:38:19,325 [main] INFO C2TA - Enter Username
+2020-10-22 03:38:19,433 [main] INFO C2TA - Enter Password
+2020-10-22 03:38:19,533 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:38:19,562 [main] INFO C2TA - Click on Login Button
+2020-10-22 03:38:23,292 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:38:23,653 [main] INFO C2TA - Close Browser
+2020-10-22 03:39:02,379 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:39:06,261 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:39:12,866 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:39:12,940 [main] INFO C2TA - launching Browser
+2020-10-22 03:39:12,946 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 03:39:12,994 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:39:13,607 [main] INFO C2TA - Enter Username
+2020-10-22 03:39:13,736 [main] INFO C2TA - Enter Password
+2020-10-22 03:39:13,846 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:39:13,876 [main] INFO C2TA - Click on Login Button
+2020-10-22 03:39:18,748 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:39:19,141 [main] INFO C2TA - Close Browser
+2020-10-22 03:39:19,848 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:39:23,007 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:39:29,522 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:39:29,524 [main] INFO C2TA - launching Browser
+2020-10-22 03:39:29,531 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 03:39:29,541 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:39:30,136 [main] INFO C2TA - Enter Username
+2020-10-22 03:39:30,262 [main] INFO C2TA - Enter Password
+2020-10-22 03:39:30,366 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:39:30,394 [main] INFO C2TA - Click on Login Button
+2020-10-22 03:39:33,387 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:39:33,767 [main] INFO C2TA - Close Browser
+2020-10-22 03:41:41,458 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:41:45,347 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:41:51,412 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:41:51,502 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 03:41:51,545 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:41:52,182 [main] INFO C2TA - Enter Username
+2020-10-22 03:41:52,307 [main] INFO C2TA - Enter Password
+2020-10-22 03:41:52,407 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:41:52,434 [main] INFO C2TA - Click on Login Button
+2020-10-22 03:41:58,947 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:41:59,346 [main] INFO C2TA - Close Browser
+2020-10-22 03:42:00,063 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:42:03,234 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:42:08,985 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:42:08,991 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 03:42:09,000 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:42:09,630 [main] INFO C2TA - Enter Username
+2020-10-22 03:42:09,754 [main] INFO C2TA - Enter Password
+2020-10-22 03:42:09,863 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:42:09,894 [main] INFO C2TA - Click on Login Button
+2020-10-22 03:42:12,487 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:42:12,916 [main] INFO C2TA - Close Browser
+2020-10-22 03:44:06,029 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:44:10,069 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:44:16,866 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:44:16,962 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 03:44:17,008 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:44:17,647 [main] INFO C2TA - Enter Username
+2020-10-22 03:44:17,789 [main] INFO C2TA - Enter Password
+2020-10-22 03:44:17,896 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:44:17,926 [main] INFO C2TA - Click on submit Button
+2020-10-22 03:44:21,218 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:44:21,607 [main] INFO C2TA - Close Browser
+2020-10-22 03:44:22,309 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:44:25,536 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:44:31,571 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:44:31,576 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 03:44:31,585 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:44:32,190 [main] INFO C2TA - Enter Username
+2020-10-22 03:44:32,324 [main] INFO C2TA - Enter Password
+2020-10-22 03:44:32,426 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:44:32,452 [main] INFO C2TA - Click on submit Button
+2020-10-22 03:44:35,325 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:44:35,699 [main] INFO C2TA - Close Browser
+2020-10-22 03:47:23,098 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:47:26,968 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:47:33,156 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:47:33,250 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 03:47:33,288 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:47:33,944 [main] INFO C2TA - Enter Username
+2020-10-22 03:47:34,077 [main] INFO C2TA - Enter Password
+2020-10-22 03:47:34,186 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:47:34,218 [main] INFO C2TA - Click on submit Button
+2020-10-22 03:47:39,612 [main] INFO C2TA - login un successful
+2020-10-22 03:47:39,617 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:47:39,997 [main] INFO C2TA - Close Browser
+2020-10-22 03:47:40,708 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:47:43,884 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:47:51,176 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:47:51,182 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 03:47:51,190 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:47:51,780 [main] INFO C2TA - Enter Username
+2020-10-22 03:47:51,910 [main] INFO C2TA - Enter Password
+2020-10-22 03:47:52,020 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:47:52,049 [main] INFO C2TA - Click on submit Button
+2020-10-22 03:47:54,568 [main] INFO C2TA - login successful
+2020-10-22 03:47:54,572 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:47:54,935 [main] INFO C2TA - Close Browser
+2020-10-22 03:49:30,068 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:49:34,127 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:49:40,013 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:49:40,173 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 03:49:40,248 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:49:40,896 [main] INFO C2TA - Enter Username
+2020-10-22 03:49:41,021 [main] INFO C2TA - Enter Password
+2020-10-22 03:49:41,134 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:49:41,164 [main] INFO C2TA - Click on submit Button
+2020-10-22 03:49:46,748 [main] INFO C2TA - login un successful
+2020-10-22 03:49:46,749 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:49:47,120 [main] INFO C2TA - Close Browser
+2020-10-22 03:49:47,819 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:49:50,986 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:49:58,288 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:49:58,294 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 03:49:58,303 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:49:58,930 [main] INFO C2TA - Enter Username
+2020-10-22 03:49:59,055 [main] INFO C2TA - Enter Password
+2020-10-22 03:49:59,164 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:49:59,199 [main] INFO C2TA - Click on submit Button
+2020-10-22 03:50:02,583 [main] INFO C2TA - login successful
+2020-10-22 03:50:02,584 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:50:02,961 [main] INFO C2TA - Close Browser
+2020-10-22 03:52:09,990 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:52:14,317 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:52:22,284 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:52:22,387 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 03:52:22,438 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:52:23,101 [main] INFO C2TA - Enter Username
+2020-10-22 03:52:23,227 [main] INFO C2TA - Enter Password
+2020-10-22 03:52:23,330 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:52:23,358 [main] INFO C2TA - Click on submit Button
+2020-10-22 03:52:27,340 [main] INFO C2TA - login un successful
+2020-10-22 03:52:27,341 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:52:27,727 [main] INFO C2TA - Close Browser
+2020-10-22 03:52:28,437 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 03:52:31,610 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 03:52:38,871 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 03:52:38,876 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 03:52:38,889 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 03:52:39,505 [main] INFO C2TA - Enter Username
+2020-10-22 03:52:39,615 [main] INFO C2TA - Enter Password
+2020-10-22 03:52:39,722 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 03:52:39,754 [main] INFO C2TA - Click on submit Button
+2020-10-22 03:52:42,274 [main] INFO C2TA - login successful
+2020-10-22 03:52:42,275 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 03:52:42,641 [main] INFO C2TA - Close Browser
+2020-10-22 15:30:30,796 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 15:30:34,906 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 15:30:42,061 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 15:30:42,155 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 15:30:42,200 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 15:30:42,897 [main] INFO C2TA - Enter Username
+2020-10-22 15:30:43,020 [main] INFO C2TA - Enter Password
+2020-10-22 15:30:43,128 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 15:30:43,159 [main] INFO C2TA - Click on submit Button
+2020-10-22 15:31:14,665 [main] INFO C2TA - login un successful
+2020-10-22 15:31:14,666 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 15:31:15,065 [main] INFO C2TA - Close Browser
+2020-10-22 15:31:15,750 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 15:31:18,977 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 15:31:33,288 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 15:31:33,293 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 15:31:33,302 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 15:31:33,896 [main] INFO C2TA - Enter Username
+2020-10-22 15:31:34,015 [main] INFO C2TA - Enter Password
+2020-10-22 15:31:34,114 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 15:31:34,142 [main] INFO C2TA - Click on submit Button
+2020-10-22 15:31:36,711 [main] INFO C2TA - login successful
+2020-10-22 15:31:36,712 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 15:31:37,129 [main] INFO C2TA - Close Browser
+2020-10-22 15:51:03,138 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 15:51:07,029 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 15:51:14,118 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 15:51:14,219 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 15:51:14,256 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 15:51:14,867 [main] INFO C2TA - Enter Username
+2020-10-22 15:51:14,991 [main] INFO C2TA - Enter Password
+2020-10-22 15:51:15,102 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 15:51:15,135 [main] INFO C2TA - Click on submit Button
+2020-10-22 15:51:18,052 [main] INFO C2TA - login un successful
+2020-10-22 15:51:18,053 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 15:51:18,446 [main] INFO C2TA - Close Browser
+2020-10-22 15:51:19,166 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 15:51:22,390 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 15:51:27,888 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 15:51:27,893 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 15:51:27,902 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 15:51:28,514 [main] INFO C2TA - Enter Username
+2020-10-22 15:51:28,638 [main] INFO C2TA - Enter Password
+2020-10-22 15:51:28,740 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 15:51:28,771 [main] INFO C2TA - Click on submit Button
+2020-10-22 15:51:32,020 [main] INFO C2TA - login successful
+2020-10-22 15:51:32,021 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 15:51:32,416 [main] INFO C2TA - Close Browser
+2020-10-22 15:53:08,488 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 15:53:12,471 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 15:53:18,103 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 15:53:18,240 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 15:53:18,277 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 15:53:18,301 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 15:53:21,541 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 15:53:27,329 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 15:53:27,335 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 15:53:27,381 [main] INFO C2TA - Clicking on login Button on Home Page
+2020-10-22 15:53:28,003 [main] INFO C2TA - Enter Username
+2020-10-22 15:53:28,139 [main] INFO C2TA - Enter Password
+2020-10-22 15:53:28,249 [main] INFO C2TA - Click on Remember Me Checkbox
+2020-10-22 15:53:28,283 [main] INFO C2TA - Click on submit Button
+2020-10-22 15:53:32,640 [main] INFO C2TA - login successful
+2020-10-22 15:53:32,641 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 15:53:33,033 [main] INFO C2TA - Close Browser
+2020-10-22 16:10:49,329 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 16:10:53,294 [main] INFO C2TA - Identified the browser as chrome. Launching the browser in headless false
+2020-10-22 16:10:58,216 [main] INFO C2TA - Launched the Change2TestAutomation Application
+2020-10-22 16:10:58,354 [main] INFO C2TA - verify you are on Homepage
+2020-10-22 16:10:58,389 [main] INFO C2TA - Take Screen shot of Login Page
+2020-10-22 16:10:58,409 [main] INFO C2TA - Starting with Browser Set Up
+2020-10-22 16:11:11,619 [main] INFO C2TA - Take Screen shot of Login Page

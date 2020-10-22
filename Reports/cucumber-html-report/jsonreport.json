@@ -1,0 +1,82 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-10-22T02:04:31.156Z",
+        "line": 13,
+        "name": "Validate The Login Opeation of C2TA Appliation",
+        "description": "",
+        "id": "validate-the-c2ta-appliation;validate-the-login-opeation-of-c2ta-appliation;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 11305501400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To launch Browser and navigate to url",
+            "match": {
+              "location": "Change2TestAutomation_Login_TestSteps.to_launch_Browser_and_navigate_to_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 978012800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Enter the \"Rahul\" and \"Rahul@123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Rahul\"",
+                  "offset": 10
+                },
+                {
+                  "val": "\"Rahul@123\"",
+                  "offset": 22
+                }
+              ],
+              "location": "Change2TestAutomation_Login_TestSteps.enter_the_and(String,String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5848187200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Click Login button",
+            "match": {
+              "location": "Change2TestAutomation_Login_TestSteps.click_Login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1137652800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Take screenshot and Close The Browser",
+            "match": {
+              "location": "Change2TestAutomation_Login_TestSteps.take_screenshot_and_Close_The_Browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Validate The C2TA Appliation",
+    "description": "",
+    "id": "validate-the-c2ta-appliation",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Login.feature",
+    "tags": []
+  }
+]
